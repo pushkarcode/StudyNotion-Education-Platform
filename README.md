@@ -22,7 +22,7 @@ Features
 Rating & Reviews: Users can rate courses and leave reviews for others to see.
 Swiper Integration: Smooth navigation within course content through Swiper integration.
 API-Driven Architecture: Backed by robust RESTful APIs to manage course data, enrollment, and reviews.
-- Tech Stack
+- Tech Stack on that
 Frontend: React, Redux Toolkit, Tailwind CSS, Swiper
 Backend: Node.js, Express
 Database: MongoDB (using MongoDB Atlas)
